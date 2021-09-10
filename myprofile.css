@@ -252,4 +252,7 @@ ion-icon {
       .refer-company {
             flex-direction: column;
       }
+      .hr2 {
+            flex-grow: 3;
+      }
 }
