@@ -253,6 +253,9 @@ ion-icon {
             flex-direction: column;
       }
       .hr2 {
-            flex-grow: 3;
+            flex-grow: 2;
+      }
+      .right-info .hr2 {
+            flex-grow: 2;
       }
 }
